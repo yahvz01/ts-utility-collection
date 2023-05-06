@@ -2,6 +2,7 @@
   "name": "@yahvz01/utilcollection",
   "version": "0.0.1",
   "description": "collection with special features",
+  "private": false,
   "main": "./dist/index.js",
   "types" : "./dist/index.d.ts",
   "scripts": {
